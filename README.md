@@ -7,7 +7,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deysohini&label=Profile%20views&color=0e75b6&style=flat" alt="deysohini" /> </p>
-<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/fd/e0/8a/fde08aeda674c9c3bbb374b879954217.jpg">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/fd/e0/8a/fde08aeda674c9c3bbb374b879954217.jpg">
 
 - 🌱 I’m currently learning **Machine Learning**
 
