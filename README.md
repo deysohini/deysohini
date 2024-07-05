@@ -1,6 +1,6 @@
 <p>
   <img src="https://i.pinimg.com/originals/7e/d9/dc/7ed9dc948e371578fd44b1dd72bfd287.jpg" alt="MasterHead" height="400">
-  <img src="https://i.pinimg.com/originals/ce/49/02/ce490251c84920b0e3471e88023d8e98.jpg" align="right" width="30%" height="400">
+  <img src="https://i.pinimg.com/originals/f1/d2/66/f1d2668f8a73e1446b0ad8dc7f0bca3d.jpg" align="right" width="30%" height="400">
 </p>
 
 <h1 align="center">Hi 👋, I'm Sohini</h1>
