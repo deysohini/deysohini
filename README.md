@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently learning ML<br>👯I want to be a software developer<br>🚴‍♀️I am also interested in data analysis<br>🤝I am looking for genuine connections<br>🐝I want to acquire more skills <br>🌱I am currently learning Spanish <br>📫deysohini23@gmail.com
+🔭 I am currently learning ML<br> 🌱I want to be a software developer<br>🚴‍♀️I am also interested in data analysis<br>🤝I am looking for genuine connections<br>🐝I want to acquire more skills <br>📫deysohini23@gmail.com
 
 
 ## 🌐 Socials:
