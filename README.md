@@ -1,9 +1,8 @@
-[![MasterHead](https://i.pinimg.com/originals/7e/d9/dc/7ed9dc948e371578fd44b1dd72bfd287.jpg)](https://rishavchanda.io)
-
+![MasterHead](https://i.pinimg.com/originals/7e/d9/dc/7ed9dc948e371578fd44b1dd72bfd287.jpg){: .center}
 
 
 # 💫 About Me:
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fd/e0/8a/fde08aeda674c9c3bbb374b879954217.jpg">
+<img align="right" alt="Coding" width="100" src="https://i.pinimg.com/originals/fd/e0/8a/fde08aeda674c9c3bbb374b879954217.jpg">
 🔭 I am currently learning ML<br> 🌱I want to be a software developer<br>🚴‍♀️I am also interested in data analysis<br>🤝I am looking for genuine connections<br>🐝I want to acquire more skills <br>📫deysohini23@gmail.com
 
 
