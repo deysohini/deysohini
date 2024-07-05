@@ -12,7 +12,7 @@
 
 - 🚴‍♀️ I am also interested in **data analysis**
 
-- 📫 How to reach me **deysohini23@gmail.com**
+- 📫 You to reach me **deysohini23@gmail.com**
 
 - ⚡ Fun fact **I do coding :3**
 
@@ -32,6 +32,6 @@
 
 <p>
   <img align="left" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs?username=deysohini&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000" alt="deysohini" />
-  <img align="center" width="25%" src="https://github-readme-stats.vercel.app/api?username=deysohini&show_icons=true&locale=en&theme=dark&bg_color=000000" alt="deysohini" />
+  <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api?username=deysohini&show_icons=true&locale=en&theme=dark&bg_color=000000" alt="deysohini" />
   <img align="center" width="25%" src="https://github-readme-streak-stats.herokuapp.com/?user=deysohini&theme=dark&background=000000" alt="deysohini" />
 </p>
