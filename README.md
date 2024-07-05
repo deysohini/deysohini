@@ -1,5 +1,6 @@
 <center>
   <img src="https://i.pinimg.com/originals/7e/d9/dc/7ed9dc948e371578fd44b1dd72bfd287.jpg" alt="MasterHead">
+  <p align="left"> <img src="https://i.pinimg.com/originals/ce/49/02/ce490251c84920b0e3471e88023d8e98.jpg"/> </p>
 </center>
 
 <h1 align="center">Hi 👋, I'm Sohini</h1>
@@ -12,7 +13,7 @@
 
 - 🚴‍♀️ I am also interested in **data analysis**
 
-- 📫 You to reach me **deysohini23@gmail.com**
+- 📫 To reach me **deysohini23@gmail.com**
 
 - ⚡ Fun fact **I do coding :3**
 
