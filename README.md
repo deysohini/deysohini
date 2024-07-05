@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://pin.it/y9HAEB211">
+<img align="right" alt="Coding" width="400" src="https://pin.it/12vlS8T3U">
 
 
 # 💫 About Me:
