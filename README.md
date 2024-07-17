@@ -1,3 +1,5 @@
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <p>
   <img src="https://i.pinimg.com/originals/7e/d9/dc/7ed9dc948e371578fd44b1dd72bfd287.jpg" alt="MasterHead" width="65%" height="300">
   <img src="https://i.pinimg.com/originals/55/04/e1/5504e1582e678bba9826929bbf1445a1.jpg" align="right" width="32%" height="300">
@@ -37,4 +39,4 @@
 | ![](https://github-readme-stats.vercel.app/api?username=deysohini&theme=radical&hide_border=false&include_all_commits=true&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=deysohini&theme=radical&hide_border=false)             | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deysohini&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact) |
 <br>
 
- 
+ </head>
