@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 🚴‍♀️ I am also interested in **Cloud Management**
+- 🚴‍♀️ I am also interested in **Going Insane**
 
 - 📫 To reach me **deysohini23@gmail.com**
 
